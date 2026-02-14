@@ -7,7 +7,7 @@
 ## Overview
 
 <a href="https://systempipe.org/" style="display: block; margin: auto; width: 20%;">
-  <img src="https://systempipe.org/images/systemPipe_logo.png" style="width: 100%; height: auto;" alt="Logo Link" />
+  <img src="https://systempipe.org/images/systemPipe_logo.png" style="width: 20%; height: auto;" alt="Logo Link" />
 </a>
 
 The systemPipe project provides a suite of R/Bioconductor packages for designing, building, and executing end-to-end data analysis workflows on local machines and high-performance computing (HPC) systems, while simultaneously generating publication-quality analysis reports.
